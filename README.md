@@ -51,10 +51,6 @@ If you look at the Docker Desktop GUI, you can see the containers and dive deepe
 
 
 
-
-<img width="1330" alt="image" src="https://github.com/dockersamples/todo-list-app/assets/313480/d85a4bcf-e2c3-4917-9220-7d9b9a78dc54">
-
-
 ## Access the app
 
 The to-do list app will be running at [http://localhost:3000](http://localhost:3000).
